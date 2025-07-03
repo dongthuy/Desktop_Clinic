@@ -1,0 +1,1318 @@
+C:\Users\ADMIN\source\repos\Clinix\bin\Debug\Clinix.exe.config
+C:\Users\ADMIN\source\repos\Clinix\bin\Debug\Clinix.exe
+C:\Users\ADMIN\source\repos\Clinix\bin\Debug\Clinix.pdb
+C:\Users\ADMIN\source\repos\Clinix\obj\Debug\Clinix.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Clinix\obj\Debug\Clinix.Form1.resources
+C:\Users\ADMIN\source\repos\Clinix\obj\Debug\Clinix.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Clinix\obj\Debug\Clinix.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Clinix\obj\Debug\Clinix.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Clinix\obj\Debug\Clinix.exe
+C:\Users\ADMIN\source\repos\Clinix\obj\Debug\Clinix.pdb
+C:\Users\ADMIN\source\repos\Clinix\obj\Debug\Clinix.Form2.resources
+C:\Users\ADMIN\source\repos\Clinix\obj\Debug\Clinix.FormDichVuDaXoa.resources
+D:\dowload\Clinix\Clinix\bin\Debug\Clinix.exe.config
+D:\dowload\Clinix\Clinix\bin\Debug\Clinix.exe
+D:\dowload\Clinix\Clinix\bin\Debug\Clinix.pdb
+D:\dowload\Clinix\Clinix\obj\Debug\Clinix.csproj.AssemblyReference.cache
+D:\dowload\Clinix\Clinix\obj\Debug\Clinix.Properties.Resources.resources
+D:\dowload\Clinix\Clinix\obj\Debug\Clinix.csproj.GenerateResource.cache
+D:\dowload\Clinix\Clinix\obj\Debug\Clinix.csproj.CoreCompileInputs.cache
+D:\dowload\Clinix\Clinix\obj\Debug\Clinix.exe
+D:\dowload\Clinix\Clinix\obj\Debug\Clinix.pdb
+D:\dowload\Clinix\Clinix\obj\Debug\Clinix.DangNhap.resources
+D:\dowload\Clinix\Clinix\obj\Debug\Clinix.CapTaiKhoan.resources
+D:\dowload\Clinix\Clinix\obj\Debug\Clinix.QuanLyDichVu.resources
+D:\dowload\Clinix\Clinix\obj\Debug\Clinix.Menu.resources
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\Clinix.exe.config
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\Clinix.exe
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\Clinix.pdb
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\obj\Debug\Clinix.csproj.AssemblyReference.cache
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\obj\Debug\Clinix.DangNhap.resources
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\obj\Debug\Clinix.CapTaiKhoan.resources
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\obj\Debug\Clinix.Menu.resources
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\obj\Debug\Clinix.QuanLyDichVu.resources
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\obj\Debug\Clinix.Properties.Resources.resources
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\obj\Debug\Clinix.csproj.GenerateResource.cache
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\obj\Debug\Clinix.csproj.CoreCompileInputs.cache
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\obj\Debug\Clinix.csproj.Up2Date
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\obj\Debug\Clinix.exe
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\obj\Debug\Clinix.pdb
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\obj\Debug\Clinix.CustomMessageBox.resources
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\obj\Debug\Clinix.frmDanhSach.resources
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\obj\Debug\Clinix.frmXemChiTiet.resources
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\obj\Debug\Clinix.KhamBenh.resources
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\obj\Debug\Clinix.ChiDinh.resources
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\obj\Debug\Clinix.ChiDinhDichVu.resources
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\rpChiDinh.rdlc
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\obj\Debug\Clinix.ThemNhanVien.resources
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\obj\Debug\Clinix.QuanLyThuoc.resources
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\bin\Debug\inKeToa.rdlc
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\obj\Debug\Clinix.KeDonThuoc.resources
+D:\dowload\Clinix - Copy\Clinix - Copy\Clinix\obj\Debug\Clinix.KeToa.resources
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\inKeToa.rdlc
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\rpChiDinh.rdlc
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\Clinix.exe.config
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\Clinix.exe
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\Clinix.pdb
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.csproj.AssemblyReference.cache
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.ChiDinh.resources
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.ChiDinhDichVu.resources
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.CustomMessageBox.resources
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.DangNhap.resources
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.CapTaiKhoan.resources
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.frmDanhSach.resources
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.KeDonThuoc.resources
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.KeToa.resources
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.Menu.resources
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.ThemNhanVien.resources
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.QuanLyThuoc.resources
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.frmXemChiTiet.resources
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.KhamBenh.resources
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.QuanLyDichVu.resources
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.Properties.Resources.resources
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.csproj.GenerateResource.cache
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.csproj.CoreCompileInputs.cache
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.csproj.Up2Date
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.exe
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.pdb
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.frmQLBenhNhan.resources
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\EPPlus.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\EPPlus.Interfaces.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\EPPlus.System.Drawing.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Buffers.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\System.ComponentModel.Annotations.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Drawing.Common.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Memory.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Numerics.Vectors.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\EPPlus.xml
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Buffers.xml
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Drawing.Common.pdb
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Drawing.Common.xml
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Memory.xml
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Numerics.Vectors.xml
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\HoaDon.rdlc
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\bin\Debug\HoaDonReport.cs
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.frmInHoaDon.resources
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.frmQLThanhToan.resources
+D:\dowload\Clinix gộp Thùy, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.frmThemHoaDon.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\HoaDon.rdlc
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\inKeToa.rdlc
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\rpChiDinh.rdlc
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\HoaDonReport.cs
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\Clinix.exe.config
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\Clinix.exe
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\Clinix.pdb
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\EPPlus.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\EPPlus.Interfaces.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\EPPlus.System.Drawing.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Buffers.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.ComponentModel.Annotations.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Drawing.Common.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Memory.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Numerics.Vectors.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\EPPlus.xml
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Buffers.xml
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Drawing.Common.pdb
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Drawing.Common.xml
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Memory.xml
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Numerics.Vectors.xml
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.csproj.AssemblyReference.cache
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.ChiDinh.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.ChiDinhDichVu.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.CustomMessageBox.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.DangNhap.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.CapTaiKhoan.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.frmDanhSach.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.frmInHoaDon.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.KeDonThuoc.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.KeToa.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.LichSuKhamBenh.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.Menu.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.frmQLBenhNhan.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.frmQLThanhToan.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.frmThemHoaDon.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.ThemNhanVien.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.QuanLyThuoc.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.frmXemChiTiet.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.KhamBenh.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.QuanLyDichVu.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.Properties.Resources.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.csproj.GenerateResource.cache
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.csproj.CoreCompileInputs.cache
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.csproj.Up2Date
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.exe
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.pdb
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\HoaDon.rdlc
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\inKeToa.rdlc
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\rpChiDinh.rdlc
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\HoaDonReport.cs
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\Clinix.exe.config
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\Clinix.exe
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\Clinix.pdb
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\EPPlus.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\EPPlus.Interfaces.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\EPPlus.System.Drawing.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Buffers.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.ComponentModel.Annotations.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Drawing.Common.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Memory.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Numerics.Vectors.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\EPPlus.xml
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Buffers.xml
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Drawing.Common.pdb
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Drawing.Common.xml
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Memory.xml
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Numerics.Vectors.xml
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.csproj.AssemblyReference.cache
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.ChiDinh.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.ChiDinhDichVu.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.CustomMessageBox.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.DangNhap.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.CapTaiKhoan.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.frmDanhSach.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.frmInHoaDon.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.KeDonThuoc.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.KeToa.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.LichSuKhamBenh.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.Menu.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.frmQLBenhNhan.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.frmQLThanhToan.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.frmThemHoaDon.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.ThemNhanVien.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.QuanLyThuoc.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.frmXemChiTiet.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.KhamBenh.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.QuanLyDichVu.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.Properties.Resources.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.csproj.GenerateResource.cache
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.csproj.CoreCompileInputs.cache
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.csproj.Up2Date
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.exe
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.pdb
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.ChinhSuaLichKham.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\CLinix.GiaoDienLichKham.resources
+D:\dowload\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.ThemLichKham.resources
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\HoaDon.rdlc
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\inKeToa.rdlc
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\rpChiDinh.rdlc
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\HoaDonReport.cs
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\Clinix.exe.config
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\Clinix.exe
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\Clinix.pdb
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\EPPlus.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Buffers.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Drawing.Common.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Memory.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\EPPlus.xml
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Buffers.xml
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Drawing.Common.pdb
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Drawing.Common.xml
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Memory.xml
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.ChiDinh.resources
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.ChiDinhDichVu.resources
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.ChinhSuaLichKham.resources
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.CustomMessageBox.resources
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.DangNhap.resources
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.CapTaiKhoan.resources
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.frmDanhSach.resources
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\CLinix.GiaoDienLichKham.resources
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.frmInHoaDon.resources
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.KeDonThuoc.resources
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.KeToa.resources
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.LichSuKhamBenh.resources
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.Menu.resources
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.frmQLBenhNhan.resources
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.frmQLThanhToan.resources
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.frmThemHoaDon.resources
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.ThemLichKham.resources
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.ThemNhanVien.resources
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.QuanLyThuoc.resources
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.frmXemChiTiet.resources
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.KhamBenh.resources
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.QuanLyDichVu.resources
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.csproj.Up2Date
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.exe
+C:\Users\ADMIN\Downloads\clinic\Clinix - gộp Thùy, Thư, Trúc(1)\Clinix - gộp Thùy, Thư, Trúc\Clinix - Copy\Clinix\obj\Debug\Clinix.pdb
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\HoaDon.rdlc
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\inKeToa.rdlc
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\rpChiDinh.rdlc
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\HoaDonReport.cs
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\Clinix.exe.config
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\Clinix.exe
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\Clinix.pdb
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\EPPlus.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\System.Buffers.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\System.Drawing.Common.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\System.Memory.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\EPPlus.xml
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\System.Buffers.xml
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\System.Drawing.Common.pdb
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\System.Drawing.Common.xml
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\System.Memory.xml
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\Clinix\obj\Debug\Clinix.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Clinix\obj\Debug\Clinix.ChiDinh.resources
+C:\Users\ADMIN\Documents\Clinix\obj\Debug\Clinix.ChiDinhDichVu.resources
+C:\Users\ADMIN\Documents\Clinix\obj\Debug\Clinix.ChinhSuaLichKham.resources
+C:\Users\ADMIN\Documents\Clinix\obj\Debug\Clinix.CustomMessageBox.resources
+C:\Users\ADMIN\Documents\Clinix\obj\Debug\Clinix.DangNhap.resources
+C:\Users\ADMIN\Documents\Clinix\obj\Debug\Clinix.CapTaiKhoan.resources
+C:\Users\ADMIN\Documents\Clinix\obj\Debug\Clinix.frmDanhSach.resources
+C:\Users\ADMIN\Documents\Clinix\obj\Debug\CLinix.GiaoDienLichKham.resources
+C:\Users\ADMIN\Documents\Clinix\obj\Debug\Clinix.frmInHoaDon.resources
+C:\Users\ADMIN\Documents\Clinix\obj\Debug\Clinix.KeDonThuoc.resources
+C:\Users\ADMIN\Documents\Clinix\obj\Debug\Clinix.KeToa.resources
+C:\Users\ADMIN\Documents\Clinix\obj\Debug\Clinix.LichSuKhamBenh.resources
+C:\Users\ADMIN\Documents\Clinix\obj\Debug\Clinix.Menu.resources
+C:\Users\ADMIN\Documents\Clinix\obj\Debug\Clinix.frmQLBenhNhan.resources
+C:\Users\ADMIN\Documents\Clinix\obj\Debug\Clinix.frmQLThanhToan.resources
+C:\Users\ADMIN\Documents\Clinix\obj\Debug\Clinix.frmThemHoaDon.resources
+C:\Users\ADMIN\Documents\Clinix\obj\Debug\Clinix.ThemLichKham.resources
+C:\Users\ADMIN\Documents\Clinix\obj\Debug\Clinix.ThemNhanVien.resources
+C:\Users\ADMIN\Documents\Clinix\obj\Debug\Clinix.QuanLyThuoc.resources
+C:\Users\ADMIN\Documents\Clinix\obj\Debug\Clinix.frmXemChiTiet.resources
+C:\Users\ADMIN\Documents\Clinix\obj\Debug\Clinix.KhamBenh.resources
+C:\Users\ADMIN\Documents\Clinix\obj\Debug\Clinix.QuanLyDichVu.resources
+C:\Users\ADMIN\Documents\Clinix\obj\Debug\Clinix.Properties.Resources.resources
+C:\Users\ADMIN\Documents\Clinix\obj\Debug\Clinix.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\Clinix\obj\Debug\Clinix.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Clinix\obj\Debug\Clinix.csproj.Up2Date
+C:\Users\ADMIN\Documents\Clinix\obj\Debug\Clinix.exe
+C:\Users\ADMIN\Documents\Clinix\obj\Debug\Clinix.pdb
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ADMIN\Documents\Clinix\bin\Debug\stdole.dll
+C:\Users\ADMIN\Documents\Clinix\obj\Debug\Clinix.frmQuanLyThongKeLichKham.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\bin\Debug\HoaDon.rdlc
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\bin\Debug\inKeToa.rdlc
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\bin\Debug\rpChiDinh.rdlc
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\bin\Debug\HoaDonReport.cs
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\bin\Debug\Clinix.exe.config
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\bin\Debug\Clinix.exe
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\bin\Debug\Clinix.pdb
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\bin\Debug\EPPlus.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\bin\Debug\EPPlus.Interfaces.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\bin\Debug\EPPlus.System.Drawing.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\bin\Debug\System.Buffers.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\bin\Debug\System.ComponentModel.Annotations.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\bin\Debug\System.Drawing.Common.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\bin\Debug\System.Memory.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\bin\Debug\System.Numerics.Vectors.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\bin\Debug\stdole.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\bin\Debug\EPPlus.xml
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\bin\Debug\System.Buffers.xml
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\bin\Debug\System.Drawing.Common.pdb
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\bin\Debug\System.Drawing.Common.xml
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\bin\Debug\System.Memory.xml
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\bin\Debug\System.Numerics.Vectors.xml
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\obj\Debug\Clinix.csproj.AssemblyReference.cache
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\obj\Debug\Clinix.ChiDinh.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\obj\Debug\Clinix.ChiDinhDichVu.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\obj\Debug\Clinix.ChinhSuaLichKham.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\obj\Debug\Clinix.CustomMessageBox.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\obj\Debug\Clinix.DangNhap.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\obj\Debug\Clinix.CapTaiKhoan.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\obj\Debug\Clinix.frmDanhSach.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\obj\Debug\Clinix.frmQuanLyThongKeLichKham.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\obj\Debug\CLinix.GiaoDienLichKham.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\obj\Debug\Clinix.frmInHoaDon.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\obj\Debug\Clinix.KeDonThuoc.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\obj\Debug\Clinix.KeToa.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\obj\Debug\Clinix.LichSuKhamBenh.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\obj\Debug\Clinix.Menu.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\obj\Debug\Clinix.frmQLBenhNhan.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\obj\Debug\Clinix.frmQLThanhToan.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\obj\Debug\Clinix.frmThemHoaDon.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\obj\Debug\Clinix.ThemLichKham.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\obj\Debug\Clinix.ThemNhanVien.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\obj\Debug\Clinix.QuanLyThuoc.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\obj\Debug\Clinix.frmXemChiTiet.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\obj\Debug\Clinix.KhamBenh.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\obj\Debug\Clinix.QuanLyDichVu.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\obj\Debug\Clinix.Properties.Resources.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\obj\Debug\Clinix.csproj.GenerateResource.cache
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\obj\Debug\Clinix.csproj.CoreCompileInputs.cache
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\obj\Debug\Clinix.csproj.CopyComplete
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\obj\Debug\Clinix.exe
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\Clinix (1)\Clinix\obj\Debug\Clinix.pdb
+C:\Users\nguye\Downloads\Clinix\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\HoaDon.rdlc
+C:\Users\nguye\Downloads\Clinix\bin\Debug\inKeToa.rdlc
+C:\Users\nguye\Downloads\Clinix\bin\Debug\rpChiDinh.rdlc
+C:\Users\nguye\Downloads\Clinix\bin\Debug\HoaDonReport.cs
+C:\Users\nguye\Downloads\Clinix\bin\Debug\Clinix.exe.config
+C:\Users\nguye\Downloads\Clinix\bin\Debug\Clinix.exe
+C:\Users\nguye\Downloads\Clinix\bin\Debug\Clinix.pdb
+C:\Users\nguye\Downloads\Clinix\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\EPPlus.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\System.Buffers.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\System.Drawing.Common.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\System.Memory.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\EPPlus.xml
+C:\Users\nguye\Downloads\Clinix\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\nguye\Downloads\Clinix\bin\Debug\System.Buffers.xml
+C:\Users\nguye\Downloads\Clinix\bin\Debug\System.Drawing.Common.pdb
+C:\Users\nguye\Downloads\Clinix\bin\Debug\System.Drawing.Common.xml
+C:\Users\nguye\Downloads\Clinix\bin\Debug\System.Memory.xml
+C:\Users\nguye\Downloads\Clinix\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nguye\Downloads\Clinix\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nguye\Downloads\Clinix\obj\Debug\Clinix.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\Clinix\obj\Debug\Clinix.ChiDinh.resources
+C:\Users\nguye\Downloads\Clinix\obj\Debug\Clinix.ChiDinhDichVu.resources
+C:\Users\nguye\Downloads\Clinix\obj\Debug\Clinix.ChinhSuaLichKham.resources
+C:\Users\nguye\Downloads\Clinix\obj\Debug\Clinix.CustomMessageBox.resources
+C:\Users\nguye\Downloads\Clinix\obj\Debug\Clinix.DangNhap.resources
+C:\Users\nguye\Downloads\Clinix\obj\Debug\Clinix.CapTaiKhoan.resources
+C:\Users\nguye\Downloads\Clinix\obj\Debug\Clinix.frmDanhSach.resources
+C:\Users\nguye\Downloads\Clinix\obj\Debug\Clinix.frmQuanLyThongKeLichKham.resources
+C:\Users\nguye\Downloads\Clinix\obj\Debug\CLinix.GiaoDienLichKham.resources
+C:\Users\nguye\Downloads\Clinix\obj\Debug\Clinix.frmInHoaDon.resources
+C:\Users\nguye\Downloads\Clinix\obj\Debug\Clinix.KeDonThuoc.resources
+C:\Users\nguye\Downloads\Clinix\obj\Debug\Clinix.KeToa.resources
+C:\Users\nguye\Downloads\Clinix\obj\Debug\Clinix.LichSuKhamBenh.resources
+C:\Users\nguye\Downloads\Clinix\obj\Debug\Clinix.Menu.resources
+C:\Users\nguye\Downloads\Clinix\obj\Debug\Clinix.frmQLBenhNhan.resources
+C:\Users\nguye\Downloads\Clinix\obj\Debug\Clinix.frmQLThanhToan.resources
+C:\Users\nguye\Downloads\Clinix\obj\Debug\Clinix.frmThemHoaDon.resources
+C:\Users\nguye\Downloads\Clinix\obj\Debug\Clinix.ThemLichKham.resources
+C:\Users\nguye\Downloads\Clinix\obj\Debug\Clinix.ThemNhanVien.resources
+C:\Users\nguye\Downloads\Clinix\obj\Debug\Clinix.QuanLyThuoc.resources
+C:\Users\nguye\Downloads\Clinix\obj\Debug\Clinix.frmXemChiTiet.resources
+C:\Users\nguye\Downloads\Clinix\obj\Debug\Clinix.KhamBenh.resources
+C:\Users\nguye\Downloads\Clinix\obj\Debug\Clinix.QuanLyDichVu.resources
+C:\Users\nguye\Downloads\Clinix\obj\Debug\Clinix.Properties.Resources.resources
+C:\Users\nguye\Downloads\Clinix\obj\Debug\Clinix.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\Clinix\obj\Debug\Clinix.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\Clinix\obj\Debug\Clinix.csproj.Up2Date
+C:\Users\nguye\Downloads\Clinix\obj\Debug\Clinix.exe
+C:\Users\nguye\Downloads\Clinix\obj\Debug\Clinix.pdb
+C:\Users\nguye\Downloads\Clinix\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\EnvDTE.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\HoaDon.rdlc
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\inKeToa.rdlc
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\rpChiDinh.rdlc
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\HoaDonReport.cs
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\Clinix.exe.config
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\Clinix.exe
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\Clinix.pdb
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\CrystalDecisions.Shared.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\EPPlus.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\EPPlus.Interfaces.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\EPPlus.System.Drawing.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\System.Buffers.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\System.ComponentModel.Annotations.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\System.Drawing.Common.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\System.Memory.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\System.Numerics.Vectors.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\EnvDTE.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\stdole.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\EPPlus.xml
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\System.Buffers.xml
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\System.Drawing.Common.pdb
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\System.Drawing.Common.xml
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\System.Memory.xml
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\System.Numerics.Vectors.xml
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\dowload\ClinixCuoi1\Clinix\obj\Debug\Clinix.csproj.AssemblyReference.cache
+D:\dowload\ClinixCuoi1\Clinix\obj\Debug\Clinix.ChiDinh.resources
+D:\dowload\ClinixCuoi1\Clinix\obj\Debug\Clinix.ChiDinhDichVu.resources
+D:\dowload\ClinixCuoi1\Clinix\obj\Debug\Clinix.ChinhSuaLichKham.resources
+D:\dowload\ClinixCuoi1\Clinix\obj\Debug\Clinix.CustomMessageBox.resources
+D:\dowload\ClinixCuoi1\Clinix\obj\Debug\Clinix.DangNhap.resources
+D:\dowload\ClinixCuoi1\Clinix\obj\Debug\Clinix.CapTaiKhoan.resources
+D:\dowload\ClinixCuoi1\Clinix\obj\Debug\Clinix.frmDanhSach.resources
+D:\dowload\ClinixCuoi1\Clinix\obj\Debug\Clinix.frmQuanLyThongKeLichKham.resources
+D:\dowload\ClinixCuoi1\Clinix\obj\Debug\CLinix.GiaoDienLichKham.resources
+D:\dowload\ClinixCuoi1\Clinix\obj\Debug\Clinix.frmInHoaDon.resources
+D:\dowload\ClinixCuoi1\Clinix\obj\Debug\Clinix.KeDonThuoc.resources
+D:\dowload\ClinixCuoi1\Clinix\obj\Debug\Clinix.KeToa.resources
+D:\dowload\ClinixCuoi1\Clinix\obj\Debug\Clinix.LichSuKhamBenh.resources
+D:\dowload\ClinixCuoi1\Clinix\obj\Debug\Clinix.Menu.resources
+D:\dowload\ClinixCuoi1\Clinix\obj\Debug\Clinix.frmQLBenhNhan.resources
+D:\dowload\ClinixCuoi1\Clinix\obj\Debug\Clinix.frmQLThanhToan.resources
+D:\dowload\ClinixCuoi1\Clinix\obj\Debug\Clinix.frmThemHoaDon.resources
+D:\dowload\ClinixCuoi1\Clinix\obj\Debug\Clinix.ThemLichKham.resources
+D:\dowload\ClinixCuoi1\Clinix\obj\Debug\Clinix.ThemNhanVien.resources
+D:\dowload\ClinixCuoi1\Clinix\obj\Debug\Clinix.QuanLyThuoc.resources
+D:\dowload\ClinixCuoi1\Clinix\obj\Debug\Clinix.frmXemChiTiet.resources
+D:\dowload\ClinixCuoi1\Clinix\obj\Debug\Clinix.KhamBenh.resources
+D:\dowload\ClinixCuoi1\Clinix\obj\Debug\Clinix.QuanLyDichVu.resources
+D:\dowload\ClinixCuoi1\Clinix\obj\Debug\Clinix.Properties.Resources.resources
+D:\dowload\ClinixCuoi1\Clinix\obj\Debug\Clinix.csproj.GenerateResource.cache
+D:\dowload\ClinixCuoi1\Clinix\obj\Debug\Clinix.csproj.CoreCompileInputs.cache
+D:\dowload\ClinixCuoi1\Clinix\obj\Debug\Clinix.csproj.Up2Date
+D:\dowload\ClinixCuoi1\Clinix\obj\Debug\Clinix.exe
+D:\dowload\ClinixCuoi1\Clinix\obj\Debug\Clinix.pdb
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\HoaDon.rdlc
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\inKeToa.rdlc
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\rpChiDinh.rdlc
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\HoaDonReport.cs
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\Clinix.exe.config
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\Clinix.exe
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\Clinix.pdb
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\EPPlus.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\System.Buffers.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\System.Drawing.Common.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\System.Memory.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\EnvDTE.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\EPPlus.xml
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\System.Buffers.xml
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\System.Drawing.Common.pdb
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\System.Drawing.Common.xml
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\System.Memory.xml
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\obj\Debug\Clinix.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\obj\Debug\Clinix.ChiDinh.resources
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\obj\Debug\Clinix.ChiDinhDichVu.resources
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\obj\Debug\Clinix.ChinhSuaLichKham.resources
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\obj\Debug\Clinix.CustomMessageBox.resources
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\obj\Debug\Clinix.DangNhap.resources
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\obj\Debug\Clinix.CapTaiKhoan.resources
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\obj\Debug\Clinix.frmDanhSach.resources
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\obj\Debug\Clinix.frmQuanLyThongKeLichKham.resources
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\obj\Debug\CLinix.GiaoDienLichKham.resources
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\obj\Debug\Clinix.frmInHoaDon.resources
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\obj\Debug\Clinix.KeDonThuoc.resources
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\obj\Debug\Clinix.KeToa.resources
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\obj\Debug\Clinix.LichSuKhamBenh.resources
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\obj\Debug\Clinix.Menu.resources
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\obj\Debug\Clinix.frmQLBenhNhan.resources
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\obj\Debug\Clinix.frmQLThanhToan.resources
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\obj\Debug\Clinix.frmThemHoaDon.resources
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\obj\Debug\Clinix.ThemLichKham.resources
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\obj\Debug\Clinix.ThemNhanVien.resources
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\obj\Debug\Clinix.QuanLyThuoc.resources
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\obj\Debug\Clinix.frmXemChiTiet.resources
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\obj\Debug\Clinix.KhamBenh.resources
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\obj\Debug\Clinix.QuanLyDichVu.resources
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\obj\Debug\Clinix.Properties.Resources.resources
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\obj\Debug\Clinix.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\obj\Debug\Clinix.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\obj\Debug\Clinix.csproj.Up2Date
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\obj\Debug\Clinix.exe
+C:\Users\nguye\Downloads\ClinixCuoi1\Clinix\obj\Debug\Clinix.pdb
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\HoaDon.rdlc
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\inKeToa.rdlc
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\rpChiDinh.rdlc
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\HoaDonReport.cs
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\Clinix.exe.config
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\Clinix.exe
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\Clinix.pdb
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\EPPlus.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\System.Buffers.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\System.Drawing.Common.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\System.Memory.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\EnvDTE.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\EPPlus.xml
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\System.Buffers.xml
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\System.Drawing.Common.pdb
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\System.Drawing.Common.xml
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\System.Memory.xml
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\obj\Debug\Clinix.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\obj\Debug\Clinix.ChiDinh.resources
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\obj\Debug\Clinix.ChiDinhDichVu.resources
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\obj\Debug\Clinix.ChinhSuaLichKham.resources
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\obj\Debug\Clinix.CustomMessageBox.resources
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\obj\Debug\Clinix.DangNhap.resources
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\obj\Debug\Clinix.CapTaiKhoan.resources
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\obj\Debug\Clinix.frmDanhSach.resources
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\obj\Debug\Clinix.frmQuanLyThongKeLichKham.resources
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\obj\Debug\CLinix.GiaoDienLichKham.resources
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\obj\Debug\Clinix.frmInHoaDon.resources
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\obj\Debug\Clinix.KeDonThuoc.resources
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\obj\Debug\Clinix.KeToa.resources
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\obj\Debug\Clinix.LichSuKhamBenh.resources
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\obj\Debug\Clinix.Menu.resources
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\obj\Debug\Clinix.frmQLBenhNhan.resources
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\obj\Debug\Clinix.frmQLThanhToan.resources
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\obj\Debug\Clinix.frmThemHoaDon.resources
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\obj\Debug\Clinix.ThemLichKham.resources
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\obj\Debug\Clinix.ThemNhanVien.resources
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\obj\Debug\Clinix.QuanLyThuoc.resources
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\obj\Debug\Clinix.frmXemChiTiet.resources
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\obj\Debug\Clinix.KhamBenh.resources
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\obj\Debug\Clinix.QuanLyDichVu.resources
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\obj\Debug\Clinix.Properties.Resources.resources
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\obj\Debug\Clinix.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\obj\Debug\Clinix.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\obj\Debug\Clinix.csproj.Up2Date
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\obj\Debug\Clinix.exe
+C:\Users\nguye\Downloads\ClinixFinal\Clinix\obj\Debug\Clinix.pdb
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\HoaDon.rdlc
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\inKeToa.rdlc
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\rpChiDinh.rdlc
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\HoaDonReport.cs
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\Clinix.exe.config
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\Clinix.exe
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\Clinix.pdb
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\EPPlus.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\System.Buffers.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\System.Drawing.Common.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\System.Memory.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\EnvDTE.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\stdole.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\EPPlus.xml
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\System.Buffers.xml
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\System.Drawing.Common.pdb
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\System.Drawing.Common.xml
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\System.Memory.xml
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\obj\Debug\Clinix.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\obj\Debug\Clinix.ChiDinh.resources
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\obj\Debug\Clinix.ChiDinhDichVu.resources
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\obj\Debug\Clinix.ChinhSuaLichKham.resources
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\obj\Debug\Clinix.CustomMessageBox.resources
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\obj\Debug\Clinix.DangNhap.resources
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\obj\Debug\Clinix.CapTaiKhoan.resources
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\obj\Debug\Clinix.frmDanhSach.resources
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\obj\Debug\Clinix.frmQuanLyThongKeLichKham.resources
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\obj\Debug\CLinix.GiaoDienLichKham.resources
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\obj\Debug\Clinix.frmInHoaDon.resources
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\obj\Debug\Clinix.KeDonThuoc.resources
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\obj\Debug\Clinix.KeToa.resources
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\obj\Debug\Clinix.LichSuKhamBenh.resources
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\obj\Debug\Clinix.Menu.resources
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\obj\Debug\Clinix.frmQLBenhNhan.resources
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\obj\Debug\Clinix.frmQLThanhToan.resources
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\obj\Debug\Clinix.frmThemHoaDon.resources
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\obj\Debug\Clinix.ThemLichKham.resources
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\obj\Debug\Clinix.ThemNhanVien.resources
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\obj\Debug\Clinix.QuanLyThuoc.resources
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\obj\Debug\Clinix.frmXemChiTiet.resources
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\obj\Debug\Clinix.KhamBenh.resources
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\obj\Debug\Clinix.QuanLyDichVu.resources
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\obj\Debug\Clinix.Properties.Resources.resources
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\obj\Debug\Clinix.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\obj\Debug\Clinix.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\obj\Debug\Clinix.csproj.CopyComplete
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\obj\Debug\Clinix.exe
+C:\Users\ADMIN\Documents\A. UDPT DESKTOP\ClinixFinal\Clinix\obj\Debug\Clinix.pdb
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\HoaDon.rdlc
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\inKeToa.rdlc
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\rpChiDinh.rdlc
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\HoaDonReport.cs
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\Clinix.exe.config
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\Clinix.exe
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\Clinix.pdb
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\EPPlus.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\EPPlus.Interfaces.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\EPPlus.System.Drawing.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\System.Buffers.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\System.ComponentModel.Annotations.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\System.Drawing.Common.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\System.Memory.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\System.Numerics.Vectors.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\EnvDTE.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\stdole.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\EPPlus.xml
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\System.Buffers.xml
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\System.Drawing.Common.pdb
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\System.Drawing.Common.xml
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\System.Memory.xml
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\System.Numerics.Vectors.xml
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\obj\Debug\Clinix.csproj.AssemblyReference.cache
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\obj\Debug\Clinix.ChiDinh.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\obj\Debug\Clinix.ChiDinhDichVu.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\obj\Debug\Clinix.ChinhSuaLichKham.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\obj\Debug\Clinix.CustomMessageBox.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\obj\Debug\Clinix.DangNhap.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\obj\Debug\Clinix.CapTaiKhoan.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\obj\Debug\Clinix.frmDanhSach.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\obj\Debug\Clinix.frmQuanLyThongKeLichKham.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\obj\Debug\CLinix.GiaoDienLichKham.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\obj\Debug\Clinix.frmInHoaDon.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\obj\Debug\Clinix.KeDonThuoc.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\obj\Debug\Clinix.KeToa.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\obj\Debug\Clinix.LichSuKhamBenh.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\obj\Debug\Clinix.Menu.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\obj\Debug\Clinix.frmQLBenhNhan.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\obj\Debug\Clinix.frmQLThanhToan.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\obj\Debug\Clinix.frmThemHoaDon.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\obj\Debug\Clinix.ThemLichKham.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\obj\Debug\Clinix.ThemNhanVien.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\obj\Debug\Clinix.QuanLyThuoc.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\obj\Debug\Clinix.frmXemChiTiet.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\obj\Debug\Clinix.KhamBenh.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\obj\Debug\Clinix.QuanLyDichVu.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\obj\Debug\Clinix.Properties.Resources.resources
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\obj\Debug\Clinix.csproj.GenerateResource.cache
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\obj\Debug\Clinix.csproj.CoreCompileInputs.cache
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\obj\Debug\Clinix.csproj.CopyComplete
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\obj\Debug\Clinix.exe
+D:\02.DONG THUY UEH\HOC KY 5\LAP TRINH DESKTOP\CUOI KY\Derma_Clinic\ClinixFinal\Clinix\obj\Debug\Clinix.pdb

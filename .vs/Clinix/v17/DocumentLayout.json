@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nguye\\Downloads\\ClinixFinal\\Clinix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0AB4840-1AAB-4BAB-B6EE-53D6E03B0B47}|Clinix.csproj|c:\\users\\nguye\\downloads\\clinixfinal\\clinix\\quanlydichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0AB4840-1AAB-4BAB-B6EE-53D6E03B0B47}|Clinix.csproj|solutionrelative:quanlydichvu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0AB4840-1AAB-4BAB-B6EE-53D6E03B0B47}|Clinix.csproj|C:\\Users\\nguye\\Downloads\\ClinixFinal\\Clinix\\khambenh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0AB4840-1AAB-4BAB-B6EE-53D6E03B0B47}|Clinix.csproj|solutionrelative:khambenh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0AB4840-1AAB-4BAB-B6EE-53D6E03B0B47}|Clinix.csproj|C:\\Users\\nguye\\Downloads\\ClinixFinal\\Clinix\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0AB4840-1AAB-4BAB-B6EE-53D6E03B0B47}|Clinix.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0AB4840-1AAB-4BAB-B6EE-53D6E03B0B47}|Clinix.csproj|C:\\Users\\nguye\\Downloads\\ClinixFinal\\Clinix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0AB4840-1AAB-4BAB-B6EE-53D6E03B0B47}|Clinix.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nguye\\Downloads\\ClinixFinal\\Clinix\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\nguye\\Downloads\\ClinixCuoi1\\Clinix\\Menu.cs [Design]",
+              "RelativeToolTip": "..\\..\\ClinixCuoi1\\Clinix\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T05:02:23.506Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\Downloads\\ClinixFinal\\Clinix\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nguye\\Downloads\\ClinixFinal\\Clinix\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T09:19:04.803Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuanLyDichVu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nguye\\Downloads\\ClinixFinal\\Clinix\\QuanLyDichVu.cs",
+              "RelativeDocumentMoniker": "QuanLyDichVu.cs",
+              "ToolTip": "C:\\Users\\nguye\\Downloads\\ClinixFinal\\Clinix\\QuanLyDichVu.cs [Design]",
+              "RelativeToolTip": "QuanLyDichVu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T09:41:09.587Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KhamBenh.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nguye\\Downloads\\ClinixFinal\\Clinix\\KhamBenh.cs",
+              "RelativeDocumentMoniker": "KhamBenh.cs",
+              "ToolTip": "C:\\Users\\nguye\\Downloads\\ClinixFinal\\Clinix\\KhamBenh.cs [Design]",
+              "RelativeToolTip": "KhamBenh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T09:39:07.363Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
